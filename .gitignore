@@ -1,0 +1,15 @@
+.idea
+target
+build
+jdk
+jre
+laurel
+laurel-ui
+out
+output
+jdk.tar.gz
+jre.tar.gz
+jdk.zip
+jre.zip
+laurel.zip
+laurel-ui.zip
